@@ -18,6 +18,15 @@
     <ClCompile Include="A1001.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="A1005.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="A1006.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="A1035.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="in.txt">
