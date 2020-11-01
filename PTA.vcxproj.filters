@@ -27,6 +27,18 @@
     <ClCompile Include="A1035.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="A1036.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="A1050.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="A1071.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="A1061.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="in.txt">
