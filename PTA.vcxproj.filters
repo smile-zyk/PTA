@@ -69,6 +69,102 @@
     <ClCompile Include="A1010.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="A1015.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="A1027.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="A1100.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="A1012.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="A1022.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="A1025.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="A1028.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="A1004.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="A1039.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="A1052.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="A1075.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="A1098.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="A1020.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ACW836.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="A1021.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ACW790.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="A1043.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="A1064.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="A1086.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="A1099.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="A1102.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="A1110.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="A1115.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="A1119.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="A1127.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="A1138.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="A1051.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="A1066.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="A1123.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="A1135.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="A1053.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="A1094.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="in.txt">

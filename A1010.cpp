@@ -1,5 +1,6 @@
 #include<iostream>
 #include<vector>
+#include<algorithm>
 using namespace std;
 
 long long to_ten(string a,int n)
@@ -41,45 +42,25 @@ int main()
 	cin >> a >> b >> tag >> radix;
 	int flag = 0;
 	long long index;
-	if (tag == 1)
+	if (tag == 2)
+		swap(a, b);
+
+	res = to_ten(a, radix);
+	long long begin = find_min(b);
+	long long end = res + 1;
+	while (begin <= end)
 	{
-		res = to_ten(a, radix);
-		long long begin = find_min(b);
-		long long end = res + 1;
-		while (begin <= end)
+		index = (begin + end) / 2;
+		long long n = to_ten(b, index);
+		if (n > res || n < 0)
+			end = index - 1;
+		else if (n == res)
 		{
-			index = (begin + end) / 2;
-			long long n = to_ten(b, index);
-			if (n > res || n < 0)
-				end = index - 1;
-			else if (n == res)
-			{
-				flag = 1;
-				break;
-			}
-			else
-				begin = index + 1;
+			flag = 1;
+			break;
 		}
-	}
-	else
-	{
-		res = to_ten(b, radix);
-		long long begin = find_min(a);
-		long long end = res + 1;
-		while (begin <= end)
-		{
-			index = (begin + end) / 2;
-			long long n = to_ten(a, index);
-			if (n > res || n < 0)
-				end = index - 1;
-			else if (n == res)
-			{
-				flag = 1;
-				break;
-			}
-			else
-				begin = index + 1;
-		}
+		else
+			begin = index + 1;
 	}
 	if (flag)cout << index;
 	else cout << "Impossible";
