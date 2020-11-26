@@ -165,6 +165,57 @@
     <ClCompile Include="A1094.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="A1003.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="A1030.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="A1034.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="A1087.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="A1111.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="A1122.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="A1126.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="A1131.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="A1134.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="A1074.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="A1139.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="A1142.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="A1146.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="A1150.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="A1154.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ACW849.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ACW850.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="in.txt">
